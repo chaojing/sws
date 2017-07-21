@@ -6,7 +6,7 @@ import org.springframework.ws.client.core.WebServiceTemplate;
 /**
  * @author Zhouce Chen
  * @version May 21, 2014
- * ²âÊÔÖ÷Àà
+ * æµ‹è¯•ç±»
  */
 public class Test {
     public static void main(String[] args) {
