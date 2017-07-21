@@ -8,6 +8,7 @@ import org.springframework.ws.server.endpoint.annotation.ResponsePayload;
 /**
  * @author Zhouce Chen
  * @version May 19, 2014
+ * endpoint
  */
 
 @Endpoint
